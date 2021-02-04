@@ -11,5 +11,5 @@ The app uses two modules, **yargs** (1) for handling the various commands, and *
 
 The notes are stored and retrieved from a JSON file. yargs makes sure all the commands are valid and that there no duplicates notes are added; chalk is used for highlighting successful/
 failed operations
-(1)<https://www.npmjs.com/package/yargs>
-(2)<https://www.npmjs.com/package/chalk>
+- (1)<https://www.npmjs.com/package/yargs>
+- (2)<https://www.npmjs.com/package/chalk>
